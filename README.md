@@ -3,7 +3,7 @@
 </div> 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D0%B5%D0%BC-%D0%BB%D0%B0%D1%82%D1%8B%D1%88%D0%B5%D0%B2-8a6630262/">
+  <a href="www.linkedin.com/in/latyshevv">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   
   
@@ -29,7 +29,7 @@ I am a Junior QA engineer from Ukraine (Dnipro).
 
 - :zap: In my free time, I learn Python and SQL.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-latyshev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D0%B5%D0%BC-%D0%BB%D0%B0%D1%82%D1%8B%D1%88%D0%B5%D0%B2-8a6630262/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-latyshevv-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/latyshevv)
   
 ---
 
