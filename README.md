@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Junior QA engineer from Ukraine.
+I am a Junior QA engineer from Ukraine (Dnipro).
 - :telescope: I’m studying quality assurance in Vadim's Ksendzov QA courses and looking for a job.
 
 - :seedling: I'm doing commercial practice on some training projects.
